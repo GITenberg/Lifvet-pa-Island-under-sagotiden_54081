@@ -1,0 +1,26 @@
+_repo: Lifvet-pa-Island-under-sagotiden_54081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hildebrand, Hans
+    alias: Hildebrand, Hans Olof Hildebrand
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '47697'
+    url: http://www.gutenberg.org/2009/agents/47697
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54081'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Iceland -- History'
+- !lcsh 'Iceland -- Social life and customs'
+- GITenberg
+title: Lifvet på Island under sagotiden
+url: http://www.gutenberg.org/ebooks/54081
